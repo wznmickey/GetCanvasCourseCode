@@ -1,6 +1,5 @@
 # GetCanvasCourseCode
-Get the code of courses on Canvas without Key required.
-
+Get the code of courses on Canvas without Key required as a tool for https://github.com/BoYanZh/Canvas-Syncer.
 ## Usage
 **Use https://umjicanvas.com/ as the example, replace this with the canvas url you use.**
 Open the Canvas Page,choose course(Now the url is "https://umjicanvas.com/courses") 
