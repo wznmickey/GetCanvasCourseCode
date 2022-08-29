@@ -22,7 +22,7 @@ function getCodeURL(n, m) {
     return getCodeN(n.length, m);
 }
 function getCodeSJTU_JI() {
-    return getCodeN(31, 0);
+    return getCodeN(29, 0);
 }
 function getCodeSJTU() {
     return getCodeURL("https://oc.sjtu.edu.cn/courses/", 0);
@@ -33,7 +33,7 @@ function getCode(n) {
 
     before["SJTU"] = 31;
     after["SJTU"] = 0;
-    before["SJTU_JI"] = 31;
+    before["SJTU_JI"] = 29;
     after["SJTU_JI"] = 0;
     //shotcut
     before["JI"] = before["SJTU_JI"];
