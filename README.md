@@ -3,13 +3,13 @@
 
 Get the code of courses on Canvas without Key required as a tool for https://github.com/BoYanZh/Canvas-Syncer.
 ## Usage 使用
-**使用 https://umjicanvas.com/ 作为例子, 改成你需要的链接.**
+**使用 https://jicanvas.com/ 作为例子, 改成你需要的链接.**
 
-**Use https://umjicanvas.com/ as the example, replace this with the canvas url you use.**
+**Use https://jicanvas.com/ as the example, replace this with the canvas url you use.**
 
-打开Canvas页面，选择课程（现在网址是"[https://umjicanvas.com/courses](https://umjicanvas.com/courses)"）。打开开发者工具里面的控制台复制`demo.js`中的代码并运行需要的函数。
+打开Canvas页面，选择课程（现在网址是"[https://jicanvas.com/courses](https://jicanvas.com/courses)"）。打开开发者工具里面的控制台复制`demo.js`中的代码并运行需要的函数。
 
-Open the Canvas Page, choose course (Now the url is "[https://umjicanvas.com/courses](https://umjicanvas.com/courses)"). Open 开发者工具里面的控制台 and copy the code in `demo.js` and run the needed function.
+Open the Canvas Page, choose course (Now the url is "[https://umjicanvas.com/courses](https://jicanvas.com/courses)"). Open 开发者工具里面的控制台 and copy the code in `demo.js` and run the needed function.
 
 
 ## Function introduction
