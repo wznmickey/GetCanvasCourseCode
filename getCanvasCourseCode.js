@@ -3,7 +3,7 @@
 // @name:en         getCanvasCourseCode
 // @name:zh         获取Canvas课程代码
 // @namespace       getCanvasCourseCode
-// @match           *://*canvas*/course
+// @match           *://*canvas*/courses
 // @grant           none
 // @version         1.1.1
 // @author          wznmickey
