@@ -1,10 +1,11 @@
 // ==UserScript==
+// @name            getCanvasCourseCode
 // @name:en         getCanvasCourseCode
 // @name:zh         获取Canvas课程代码
 // @namespace       getCanvasCourseCode
 // @match           *://*canvas*/course
 // @grant           none
-// @version         1.1
+// @version         1.1.1
 // @author          wznmickey
 // @description:en  get Canvas Course Code and show on the top of the page
 // @description:zh  获取Canvas课程代码并展示在页面顶部
